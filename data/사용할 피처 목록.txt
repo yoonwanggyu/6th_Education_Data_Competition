@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 학교 종류
 학교 면적
 학교 학생 수
@@ -9,3 +10,16 @@
 기타 지원 시설은: https://www.schoolinfo.go.kr/ng/go/pnnggo_a01_l2.do 여기
 학교별 학업 성취도: https://asil.kr/asil/sub/school_list.jsp
 
+=======
+학교 종류
+학교 면적
+학교 학생 수
+학교 교원 수
+학급 수
+학교 시설 (일반 교실: 학급 교실, 특수학급 교실),(교과 교실: 교과별 특성화 전용교실[국어교실, 영어교실, 수학교실, 과학교실(이론)]), (특별교실:과학실(실험), 음악실, 미술실, 기술실, 가정실, 어학실),
+		(수준별교실: 교과교실을 제외한 수준별교실), (기타: 보건교실, 환경교실)
+
+기타 지원 시설은: https://www.schoolinfo.go.kr/ng/go/pnnggo_a01_l2.do 여기
+학교별 학업 성취도: https://asil.kr/asil/sub/school_list.jsp
+
+>>>>>>> f72f23b67b882f0dfdd929f4c726dc9fe1d31e2a
