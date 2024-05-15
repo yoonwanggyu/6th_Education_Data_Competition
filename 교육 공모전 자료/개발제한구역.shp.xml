@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="ko">
+	<Esri>
+		<CreaDate>20240327</CreaDate>
+		<CreaTime>10263000</CreaTime>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<SyncOnce>FALSE</SyncOnce>
+		<DataProperties>
+			<itemProps>
+				<itemName Sync="FALSE">LSMD_CONT_UD801</itemName>
+				<imsContentType Sync="TRUE">002</imsContentType>
+				<nativeExtBox>
+					<westBL Sync="TRUE">167820.286075</westBL>
+					<eastBL Sync="TRUE">181782.185825</eastBL>
+					<southBL Sync="TRUE">533266.430782</southBL>
+					<northBL Sync="TRUE">554889.312875</northBL>
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+				</nativeExtBox>
+			</itemProps>
+			<coordRef>
+				<type Sync="TRUE">Projected</type>
+				<geogcsn Sync="TRUE">GCS_Korea_2000</geogcsn>
+				<csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits>
+				<projcsn Sync="TRUE">Korea_2000_Korea_Central_Belt_2010</projcsn>
+				<peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.6'&gt;&lt;WKT&gt;PROJCS[&amp;quot;Korea_2000_Korea_Central_Belt_2010&amp;quot;,GEOGCS[&amp;quot;GCS_Korea_2000&amp;quot;,DATUM[&amp;quot;D_Korea_2000&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Transverse_Mercator&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,200000.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,600000.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,127.0],PARAMETER[&amp;quot;Scale_Factor&amp;quot;,1.0],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,38.0],UNIT[&amp;quot;Meter&amp;quot;,1.0],AUTHORITY[&amp;quot;EPSG&amp;quot;,5186]]&lt;/WKT&gt;&lt;XOrigin&gt;-5423200&lt;/XOrigin&gt;&lt;YOrigin&gt;-13609600&lt;/YOrigin&gt;&lt;XYScale&gt;199999999.99999997&lt;/XYScale&gt;&lt;ZOrigin&gt;0&lt;/ZOrigin&gt;&lt;ZScale&gt;1&lt;/ZScale&gt;&lt;MOrigin&gt;0&lt;/MOrigin&gt;&lt;MScale&gt;1&lt;/MScale&gt;&lt;XYTolerance&gt;1e-08&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;102082&lt;/WKID&gt;&lt;LatestWKID&gt;5186&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml>
+			</coordRef>
+		</DataProperties>
+		<SyncDate>20191114</SyncDate>
+		<SyncTime>17202800</SyncTime>
+		<ModDate>20191118</ModDate>
+		<ModTime>16530000</ModTime>
+		<scaleRange>
+			<minScale>150000000</minScale>
+			<maxScale>5000</maxScale>
+		</scaleRange>
+		<ArcGISProfile>ItemDescription</ArcGISProfile>
+	</Esri>
+	<dataIdInfo>
+		<envirDesc Sync="TRUE"> Version 6.2 (Build 9200) ; Esri ArcGIS 10.6.1.9270</envirDesc>
+		<dataLang>
+			<languageCode Sync="TRUE" value="kor"/>
+			<countryCode Sync="TRUE" value="KOR"/>
+		</dataLang>
+		<idCitation>
+			<resTitle Sync="FALSE">(연속주제)개발제한구역지정관리/개발제한구역</resTitle>
+			<presForm>
+				<PresFormCd Sync="TRUE" value="005"/>
+			</presForm>
+		</idCitation>
+		<spatRpType>
+			<SpatRepTypCd Sync="TRUE" value="001"/>
+		</spatRpType>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox esriExtentType="search">
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+					<westBL Sync="TRUE">126.635629</westBL>
+					<eastBL Sync="TRUE">126.794254</eastBL>
+					<northBL Sync="TRUE">37.593390</northBL>
+					<southBL Sync="TRUE">37.398188</southBL>
+				</GeoBndBox>
+			</geoEle>
+		</dataExt>
+	</dataIdInfo>
+	<mdLang>
+		<languageCode Sync="TRUE" value="kor"/>
+		<countryCode Sync="TRUE" value="KOR"/>
+	</mdLang>
+	<distInfo>
+		<distFormat>
+			<formatName Sync="FALSE">Feature Class</formatName>
+		</distFormat>
+	</distInfo>
+	<mdHrLv>
+		<ScopeCd Sync="TRUE" value="005"/>
+	</mdHrLv>
+	<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+	<refSysInfo>
+		<RefSystem>
+			<refSysID>
+				<identCode Sync="TRUE" code="5186"/>
+				<idCodeSpace Sync="TRUE">EPSG</idCodeSpace>
+				<idVersion Sync="TRUE">7.5.4(10.1.0)</idVersion>
+			</refSysID>
+		</RefSystem>
+	</refSysInfo>
+	<spatRepInfo>
+		<VectSpatRep>
+			<geometObjs Name="LSMD_CONT_UD801">
+				<geoObjTyp>
+					<GeoObjTypCd Sync="TRUE" value="002"/>
+				</geoObjTyp>
+				<geoObjCnt Sync="TRUE">56</geoObjCnt>
+			</geometObjs>
+			<topLvl>
+				<TopoLevCd Sync="TRUE" value="001"/>
+			</topLvl>
+		</VectSpatRep>
+	</spatRepInfo>
+	<spdoinfo>
+		<ptvctinf>
+			<esriterm Name="LSMD_CONT_UD801">
+				<efeatyp Sync="TRUE">Simple</efeatyp>
+				<efeageom Sync="TRUE" code="4"/>
+				<esritopo Sync="TRUE">FALSE</esritopo>
+				<efeacnt Sync="TRUE">56</efeacnt>
+				<spindex Sync="TRUE">TRUE</spindex>
+				<linrefer Sync="TRUE">FALSE</linrefer>
+			</esriterm>
+		</ptvctinf>
+	</spdoinfo>
+	<eainfo>
+		<detailed Name="LSMD_CONT_UD801">
+			<enttyp>
+				<enttypl Sync="FALSE">LSMD_CONT_UD801</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+				<enttypc Sync="TRUE">56</enttypc>
+			</enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">OBJECTID</attrlabl>
+				<attalias Sync="TRUE">OBJECTID</attalias>
+				<attrtype Sync="TRUE">OID</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<atprecis Sync="TRUE">10</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">Esri</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">SHAPE</attrlabl>
+				<attalias Sync="TRUE">SHAPE</attalias>
+				<attrtype Sync="TRUE">Geometry</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">Esri</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">MNUM</attrlabl>
+				<attalias Sync="TRUE">MNUM</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">33</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">ALIAS</attrlabl>
+				<attalias Sync="TRUE">ALIAS</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">200</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">REMARK</attrlabl>
+				<attalias Sync="TRUE">REMARK</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">200</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">NTFDATE</attrlabl>
+				<attalias Sync="TRUE">NTFDATE</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">8</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">SGG_OID</attrlabl>
+				<attalias Sync="TRUE">SGG_OID</attalias>
+				<attrtype Sync="TRUE">Integer</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<atprecis Sync="TRUE">10</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">COL_ADM_SECT_CD</attrlabl>
+				<attalias Sync="TRUE">COL_ADM_SECT_CD</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">5</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">SHAPE.AREA</attrlabl>
+				<attalias Sync="TRUE">SHAPE.AREA</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">0</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">SHAPE.LEN</attrlabl>
+				<attalias Sync="TRUE">SHAPE.LEN</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">0</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+		</detailed>
+	</eainfo>
+	<mdDateSt Sync="TRUE">20191118</mdDateSt>
+	<Binary>
+		<Thumbnail>
+			<Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gAooooAKKKKACiiigAoopu9N+zcu/GduecUAOoqil7NK+EiQDaHG5jyCTgfXj8PfrS/2iqTrDJBO
+HIzuSMun/fQH+fxFYqvTbsmOzLvSqy39o7bVuYznGDu4P0PQ/hVXULyE22EuEQ8ltx27eDjOenzY
+69elZkEaRTziRbuVYgPMinVCFiGSrADryPrx0zzU1K/LLlirgkdFDPHOm+Mtj/aUqfyPNSVz9vqL
+jVfNcMsbRBXhUM7DHzBsAf7WOM9R6VZS5ursEiQBcBtsQKsM5xySQcY9s859KSxMVBSnuPl1Neis
+uHU3dUGY2MjlUYgpwByxXr1BGOM4q3aXYuvOUD5oX8tiOhOAePzraNSMnZb7isWaKKKsQUUUUAFF
+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
+/9k=</Data>
+		</Thumbnail>
+	</Binary>
+</metadata>
