@@ -9,10 +9,10 @@
       교육 환경을 개선하는 데 기여할 수 있다. 이를 위해서 인천광역시 내 학교 정보와 입지 관련 지표들을 수집하여, 통합운영학교에 적합한 입지들을 선정하였다."
      
 3. 활용 데이터
-     ![image](https://github.com/2millionwon/Education_Data_Competition/assets/161268939/ab338b9f-f86c-4b90-91e9-c938b2a07ca3)
+     - ![image](https://github.com/2millionwon/Education_Data_Competition/assets/161268939/ab338b9f-f86c-4b90-91e9-c938b2a07ca3)
   
 4. 분석 과정
-     ![image](https://github.com/2millionwon/Education_Data_Competition/assets/161268939/aae52927-6e21-4a32-a0db-7593f4c7c2e3)
+     - ![image](https://github.com/2millionwon/Education_Data_Competition/assets/161268939/aae52927-6e21-4a32-a0db-7593f4c7c2e3)
   
 5. 분석 도구
    - (1)	사용언어: Python, QGIS
@@ -21,11 +21,11 @@
    - (4)	협업 툴: Github, Notion 
 
 6. MCLP
-     ![image](https://github.com/2millionwon/Education_Data_Competition/assets/161268939/215c6801-0b69-4f4d-a473-8348138deb93)
+     - ![image](https://github.com/2millionwon/Education_Data_Competition/assets/161268939/215c6801-0b69-4f4d-a473-8348138deb93)
   
 7. 분석 결과
-     ![image](https://github.com/2millionwon/Education_Data_Competition/assets/161268939/dbdff6cd-192d-4ff1-8f70-41e9de55e080)
-     ![image](https://github.com/2millionwon/Education_Data_Competition/assets/161268939/74ea340d-2683-4c1e-afc0-cb98bc25bfc7)
+     - ![image](https://github.com/2millionwon/Education_Data_Competition/assets/161268939/dbdff6cd-192d-4ff1-8f70-41e9de55e080)
+     - ![image](https://github.com/2millionwon/Education_Data_Competition/assets/161268939/74ea340d-2683-4c1e-afc0-cb98bc25bfc7)
   
 8. 결론
    - "유·초·중학교 및 학과별 데이터에 따르면 만수동과 논현동이 포함된 남동구의 초·중학교 평균 학급 당 학생 수는 각각 20.8명과 25.8명이다. 그러나 만수동의 최종 입지 주변에 있는 인천새말초등학교와 만수중학교의
