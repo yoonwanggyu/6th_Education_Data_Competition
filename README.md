@@ -1,6 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&fontAlignY=50&fontAlign=50&section=header&text=제6회%20교육%20공공데이터%20활용%20공모전&fontSize=50)
-<div align=center></div>
+<div align=center>
+
+   **학령 인구 감소에 의한 학교 공실화 문제에 대해 통합운영학교를 고려하고 입지를 분석하여 해결책을 제시한다.**
+</div>
    
 # 👪 팀원
 | 이름          | GitHub 프로필                                             |
