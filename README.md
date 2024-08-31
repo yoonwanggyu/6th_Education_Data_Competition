@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&fontAlignY=50&fontAlign=50&section=header&text=제6회%20교육%20공공데이터%20활용%20공모전&fontSize=50)
 <div align=center></div>
    
-# 팀원
+# 👪 팀원
 | 이름          | GitHub 프로필                                             |
 | ------------- | --------------------------------------------------------- |
 | 윤왕규        | [@yoonwanggyu](https://github.com/yoonwanggyu)              |
